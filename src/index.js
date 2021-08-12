@@ -15,7 +15,7 @@ export const install = (vue) => {
 }
 
 export * from "./icons"
-export * as icons from "./icons"
+export { icons }
 export { EvaIcon }
 
 // Shared CSS
