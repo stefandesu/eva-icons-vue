@@ -1,7 +1,7 @@
 # eva-icons-vue
 [![Test and build](https://github.com/stefandesu/eva-icons-vue/actions/workflows/test-and-build.yml/badge.svg)](https://github.com/stefandesu/eva-icons-vue/actions/workflows/test-and-build.yml)
 [![GitHub package version](https://img.shields.io/github/package-json/v/stefandesu/eva-icons-vue.svg?label=version)](https://github.com/stefandesu/eva-icons-vue)
-[![NPM package name](https://img.shields.io/badge/npm-eva--icons--vue-blue.svg)](https://www.npmjs.com/package/eva-icons-vue)
+[![NPM package name](https://img.shields.io/badge/npm-@stefandesu/eva--icons--vue-blue.svg)](https://www.npmjs.com/package/@stefandesu/eva-icons-vue)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
 
 > Tree-shakable icons for Vue 3 based on [Eva Icons](https://akveo.github.io/eva-icons/).
